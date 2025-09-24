@@ -1,5 +1,5 @@
 import AuthForm from "../components/AuthForm.jsx";
-import HeroImage from "../assets/HeroImage.png";
+import HeroImage from "../assets/Images/HeroImage.png";
 
 const Hero = () => (
     <section className="bg-gray-50">

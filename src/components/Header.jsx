@@ -1,8 +1,8 @@
 import { useEffect, useRef, useState } from "react";
-import LogoIcon from "../assets/Logo.png";
-import SearchIcon from "../assets/SearchIcon.svg";
+import LogoIcon from "../assets/Images/Logo.png";
+import SearchIcon from "../assets/Icons/SearchIcon.svg";
 import NotificationIcon from "../assets/Icons/Notification.svg";
-import MenuIcon from "../assets/Menu.png";
+import MenuIcon from "../assets/Icons/Menu.png";
 import Navigation from "./Navigation.jsx";
 
 const Header = () => {
