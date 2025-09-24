@@ -3,7 +3,7 @@ import HobbiesIcon from "../assets/Icons/Hobbies.svg";
 import BookmarkIcon from "../assets/Icons/Bookmark.svg";
 import NotificationIcon from "../assets/Icons/Notification.svg";
 import CartIcon from "../assets/Icons/Cart.svg";
-import Dropdown from "./DropDown";
+import Dropdown from "./Dropdown.jsx";
 
 const Navigation = ({ isMobile, openDropdown, setOpenDropdown }) => {
   const exploreItems = [

@@ -1,4 +1,4 @@
-import FeatureCard from "../components/FeatureCard";
+import FeatureCard from "../components/FeatureCard.jsx";
 import people from "../assets/Icons/People.svg";
 import Location from "../assets/Icons/Location.svg";
 import Product from "../assets/Icons/Product.svg";

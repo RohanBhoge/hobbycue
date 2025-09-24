@@ -3,7 +3,7 @@ import LogoIcon from "../assets/Logo.png";
 import SearchIcon from "../assets/SearchIcon.svg";
 import NotificationIcon from "../assets/Icons/Notification.svg";
 import MenuIcon from "../assets/Menu.png";
-import Navigation from "./Navigation";
+import Navigation from "./Navigation.jsx";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

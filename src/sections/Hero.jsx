@@ -1,6 +1,4 @@
-import { useState } from "react";
-
-import AuthForm from "../components/AuthForm";
+import AuthForm from "../components/AuthForm.jsx";
 import HeroImage from "../assets/HeroImage.png";
 
 const Hero = () => (
